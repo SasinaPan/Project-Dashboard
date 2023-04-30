@@ -130,7 +130,8 @@ header a {
 }
 
 .col-sm-4 {
+    margin-top: 275px;
     position: relative;
-    top: 260px;
     left: 60px;
+
 }
